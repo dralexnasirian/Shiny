@@ -1,0 +1,3 @@
+verbatimTextOutput()   renderPrint()
+
+tableOutput()     renderTable()
